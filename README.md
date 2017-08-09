@@ -2,7 +2,7 @@
 There is an implementation of some path finding algorithms for homework exercise.
 Includes algorithms:
 
-1) A* search algorithm
+1) A* search algorithm <br>
  https://en.wikipedia.org/wiki/A*_search_algorithm 
 
 
