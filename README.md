@@ -6,11 +6,11 @@ Includes algorithms:
  https://en.wikipedia.org/wiki/A*_search_algorithm 
 
 
-2) DFID (Depth-First Iterative Deeping) algorithm
+2) DFID (Depth-First Iterative Deeping) algorithm <br>
 http://intelligence.worldofcomputing.net/ai-search/depth-first-iterative-deepening.html#.WYpexzCg_Qo
 
-3) IDA* (Iterative deepening A*)
+3) IDA* (Iterative deepening A*) <br>
 https://en.wikipedia.org/wiki/Iterative_deepening_A*
 
-4) BFS (Breadth-first search) algorithm
+4) BFS (Breadth-first search) algorithm <br>
 https://en.wikipedia.org/wiki/Breadth-first_search
